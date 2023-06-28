@@ -8,7 +8,7 @@
 </p>
 
 - 💻 Data scientist
-- 🌱 Currently learning Azure ML
+- 🌱 Currently experimenting with Langchain + OpenAI
 - 💬 Ask me about anything, happy to help
 
 **Languages and tools:**
