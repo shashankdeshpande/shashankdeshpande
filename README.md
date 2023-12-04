@@ -25,4 +25,4 @@
 <code><img height="40" src="https://logo.clearbit.com/streamlit.com"></code>
 <code><img height="40" src="https://logo.clearbit.com/huggingface.co"></code>
 <code><img height="40" src="https://logo.clearbit.com/openai.com"></code>
-<code><img height="40" src="https://media.licdn.com/dms/image/D560BAQF4qCtE2IPOCw/company-logo_200_200/0/1682624980016?e=1697068800&v=beta&t=w9U4jmCTo1z8xrfcv0-5enuzxP7Uh7jKUbJ5A948l9c"></code>
+<code><img height="40" src="https://cdn.analyticsvidhya.com/wp-content/uploads/2023/07/langchain3.png"></code>
