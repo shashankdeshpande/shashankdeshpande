@@ -8,7 +8,7 @@
 </p>
 
 - 💻 Data scientist
-- 🌱 Currently experimenting with Langchain + OpenAI
+- 🌱 Currently experimenting with Large Language Models
 - 💬 Ask me about anything, happy to help
 
 **Languages and tools:**
